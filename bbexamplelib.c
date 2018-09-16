@@ -16,5 +16,5 @@
 
 void LibHelloWorld()
 {
-  printf("Hello World (from a shared library!)\n");
+  printf("Hello GPIO (from a shared library!)\n");
 }
